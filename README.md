@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunir439" alt="mmunir439" /></a> </p>
 
-- 🌱 I’m currently learning **Java and Javascript**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **hrcoder3@gmail.com**
 
