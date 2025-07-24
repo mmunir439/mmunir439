@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Full Stack Projects**
-- 🌱 Currently learning **JavaScript, Next.js, MongoDB**
+-  🌱 Currently making portfolio project for myself
 - 💬 Ask me about **React, Next.js, MongoDB, Java, C++**
 - 📬 Email me: [munir.dev@gmail.com](mailto:munir.dev@gmail.com)
 
