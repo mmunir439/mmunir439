@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:munir.dev@gmail.com"><img src="https://img.shields.io/badge/Email-munir.dev@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
+  <a href="mailto:munir.dev@gmail.com"><img src="https://img.shields.io/badge/Email-munir.webdev@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/munirdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://x.com/muhamad_munir76" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter" alt="Twitter"></a>
   <a href="https://www.facebook.com/profile.php?id=100085467492304" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **Full Stack Projects**
 -  🌱 Currently making portfolio project for myself
 - 💬 Ask me about **React, Next.js, MongoDB, Java, C++**
-- 📬 Email me: [munir.dev@gmail.com](mailto:munir.dev@gmail.com)
+- 📬 Email me: [munir.webdev@gmail.com](mailto:munir.webdev@gmail.com)
 
 ---
 
