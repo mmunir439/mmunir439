@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Full Stack Projects**
--  🌱 Currently making portfolio project for myself
+-  🌱 Currently making alkalam project for my pakistani client
 - 💬 Ask me about **React, Next.js, MongoDB, Java, C++**
 - 📬 Email me: [munir.webdev@gmail.com](mailto:munir.webdev@gmail.com)
 
